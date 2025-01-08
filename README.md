@@ -73,10 +73,7 @@ const developer = {
 ## 🎯 Featured Projects
 
 <div align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tahiry-dev-29&repo=your-repo-name&theme=tokyonight)](https://github.com/tahiry-dev-29/your-repo-name)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tahiry-dev-29&repo=your-repo-name-2&theme=tokyonight)](https://github.com/tahiry-dev-29/your-repo-name-2)
-  
+  ...
 </div>
 
 <div align="center">
