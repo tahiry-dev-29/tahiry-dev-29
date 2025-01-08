@@ -86,16 +86,16 @@ const developer = {
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="your-linkedin-url">
+  <a href="https://www.linkedin.com/in/tahiry-tanner-3739aa258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="your-twitter-url">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:tahirydev29@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="your-facebook-url">
+  <a href="https://www.facebook.com/tanner.tahiry">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </div>
