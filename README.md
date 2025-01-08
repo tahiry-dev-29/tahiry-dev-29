@@ -1,6 +1,6 @@
 <div align="center">
   
-  # ✨ Tahiry-dev-29 | Full Stack Developer ✨
+  # ✨ TANNER Tahiry | Full Stack Developer ✨
   
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=50&fontAlignY=35&animation=fadeIn"/>
 
