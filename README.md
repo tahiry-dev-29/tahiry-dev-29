@@ -17,7 +17,7 @@
 const developer = {
     name: "Tahiry",
     role: "Full Stack Developer",
-    code: ["TypeScript", "JavaScript", "Java"],
+    code: ["TypeScript", "PHP", "Java"],
     technologies: {
         frontend: ["Angular", "Tailwind CSS"],
         backend: ["NestJS", "Spring", "Laravel"],
