@@ -4,7 +4,7 @@
   
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=50&fontAlignY=35&animation=fadeIn"/>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00E7FF&background=FF000000&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Creative+Problem+Solver;Angular+%7C+NestJS+%7C+Spring+Expert)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00E7FF&background=FF000000&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Creative+Problem+Solver;Angular+%7C+NestJS+%7C+Spring+Laravel...)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
@@ -20,11 +20,11 @@ const developer = {
     code: ["TypeScript", "JavaScript", "Java"],
     technologies: {
         frontend: ["Angular", "Tailwind CSS"],
-        backend: ["NestJS", "Spring"],
+        backend: ["NestJS", "Spring", "Laravel"],
         databases: ["MongoDB", "PostgreSQL", "Firebase"],
         tools: ["Git", "Docker", "VS Code"]
     },
-    architecture: ["Microservices", "Design Patterns", "Clean Code"],
+    architecture: ["Features", "Design Patterns", "Clean Code"],
     currentFocus: "Building scalable applications with amazing user experiences"
 };
 ```
