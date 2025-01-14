@@ -89,9 +89,6 @@ const developer = {
   </a>
 </div>
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
 
 ## 📈 Activity Graph
 [![Tahiry's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tahiry-dev-29&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
