@@ -72,10 +72,6 @@ const developer = {
   ...
 </div>
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%">
-</div>
-
 ## 🤝 Connect With Me
 
 <div align="center">
