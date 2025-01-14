@@ -96,7 +96,7 @@ const developer = {
 <div align="center">
   <img src="https://profile-counter.glitch.me/tahiry-dev-29/count.svg" />
   
-  ### Show some ❤️ by starring some of the repositories!
+  ### If you like this project ❤️, give it a ⭐ to show your support! Thanks 😁🧑‍💻
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
