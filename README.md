@@ -29,10 +29,6 @@ const developer = {
 };
 ```
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="10" width="100%">
-</div>
-
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=DD0031&repeat=false&random=false&width=435&lines=💻+Tech+Stack" alt="Typing SVG" />
 
 <div align="center">
@@ -59,7 +55,7 @@ const developer = {
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="10" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 <div align="center">
@@ -77,7 +73,7 @@ const developer = {
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="10" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%">
 </div>
 
 ## 🤝 Connect With Me
