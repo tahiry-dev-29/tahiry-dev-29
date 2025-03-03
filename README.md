@@ -19,7 +19,7 @@ const developer = {
     role: "Full Stack Developer",
     code: ["TypeScript", "PHP", "Java"],
     technologies: {
-        frontend: ["Angular", "Svelt", "Tailwind CSS"],
+        frontend: ["Angular", "Svelte", "Tailwind CSS"],
         backend: ["NestJS", "Spring", "Express"],
         databases: ["MongoDB", "PostgreSQL", "Firebase"],
         tools: ["Git", "Docker", "VS Code", "Trello"]
