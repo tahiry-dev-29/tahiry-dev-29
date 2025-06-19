@@ -28,7 +28,6 @@ const developer = {
     currentFocus: "Building scalable applications with amazing user experiences"
 };
 ```
-
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=DD0031&repeat=false&random=false&width=435&lines=💻+Tech+Stack" alt="Typing SVG" />
 
 <div align="center">
