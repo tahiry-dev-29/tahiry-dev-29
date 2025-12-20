@@ -25,6 +25,8 @@ const tahiry = {
         focus: "High-performance Scalable Web Apps"
     }
 };
+```
+
 🛠️ Tech Stack (Approach 2026)
 <div align="center"> <table> <tr> <td align="center" width="300"> <strong>Frontend (Zoneless ⚡)</strong>
 
