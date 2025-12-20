@@ -63,14 +63,3 @@ Database & Tools
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tahiry-dev-29&color=blueviolet&style=flat-square&label=Profile+Views" /> <br /> <b>Thanks for visiting! 🚀</b> </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </div>
-
-
-### Ce qui a été amélioré :
-
-1.  **Compatibilité des images** : J'ai supprimé certains styles CSS complexes à l'intérieur des balises `<img>` qui peuvent parfois être bloqués par GitHub (comme les `border-radius` trop complexes dans les badges).
-2.  **GitHub Stats** : Ajout de cartes dynamiques qui montrent tes langages les plus utilisés et tes statistiques globales. Cela rassure les recruteurs sur ton activité.
-3.  **Mise en page des projets** : Utilisation d'un tableau HTML (`<table>`) pour que tes projets et l'animation du serpent (snake) soient bien alignés.
-4.  **Correction des liens** : J'ai simplifié les liens sociaux pour éviter les paramètres de tracking inutiles.
-5.  **Snake Animation** : Assure-toi d'avoir configuré une *GitHub Action* pour générer l'image du serpent, sinon l'image `output/github-contribution-grid-snake.svg` ne s'affichera pas (c'est une erreur courante).
-
-**Souhaites-tu que je t'aide à configurer l'Action GitHub pour que le petit serpent (snake animation) fonctionne vraiment ?**
