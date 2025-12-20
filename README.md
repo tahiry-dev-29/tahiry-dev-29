@@ -34,14 +34,7 @@ Backend
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Laravel-FF2D20%3Fstyle%3Dfor-the-badge%26logo%3Dlaravel%26logoColor%3Dwhite" />
 </p>
 
-### Database & Tools
-
-<p>
-  <img src="img.shields.io" alt="MongoDB" />
-  <img src="img.shields.io" alt="PostgreSQL" />
-  <img src="img.shields.io" alt="Firebase" />
-  <img src="img.shields.io" alt="Docker" />
-</p>
+Database & Tools<p><img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" alt="MongoDB" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-4169E1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="PostgreSQL" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Firebase-FFCA28%3Fstyle%3Dfor-the-badge%26logo%3Dfirebase%26logoColor%3Dblack" alt="Firebase" /><img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" alt="Docker" /></p>
 
 
 🤝 Connect With Me
