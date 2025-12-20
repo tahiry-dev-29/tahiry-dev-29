@@ -25,6 +25,7 @@ const tahiry = {
     tools: ["Docker", "Ubuntu Optimization", "AI-Driven Development"],
     currentFocus: "Pushing the boundaries of Angular 21 reactivity 🚀"
 };
+```
 <div align="center"> <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> </div>
 
 🛠️ Tech Stack (Approche 2026)
