@@ -3,19 +3,18 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
 # TANNER Tahiry
-### Full Stack Developer
 
 <br/>
 
-## About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" /> About Me
 
-Full Stack Developer passionné par la création d'applications web modernes et performantes. Spécialisé dans l'architecture clean et les design patterns, je développe des solutions scalables avec un focus sur l'expérience utilisateur et la qualité du code.
+Passionate developer focused on building modern and performant web applications. Specialized in clean architecture and design patterns, I develop scalable solutions with a focus on user experience and code quality.
 
 <br/>
 
-## Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="35" /> Tech Stack
 
-### Languages
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" /> Languages
 <p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
