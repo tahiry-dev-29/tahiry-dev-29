@@ -9,7 +9,7 @@
 
 ## RANDRIAMALALA Tahirinirina Kevin
 
-<sub>Full-stack developer crafting modern, performant web &amp; mobile applications</sub>
+<sub>Développeur Full-Stack — applications web &amp; mobile robustes, du back-end à l'interface</sub>
 
 <br/><br/>
 
@@ -25,6 +25,24 @@
 
 <br/>
 
+## <img src="https://api.iconify.design/lucide:user.svg?color=%23e0af68&width=26" valign="middle"/>&nbsp; À propos
+
+<table width="100%">
+<tr>
+<td>
+
+Je conçois des produits web et mobile de bout en bout — architecture, back-end, front-end — avec une attention particulière portée à la performance et à la maintenabilité du code. J'aime transformer un besoin flou en système propre, testable et évolutif.
+
+<img src="https://api.iconify.design/lucide:map-pin.svg?color=%237aa2f7&width=16" valign="middle"/>&nbsp;<sub>Madagascar</sub>
+&nbsp;&nbsp;
+<img src="https://api.iconify.design/lucide:radar.svg?color=%237aa2f7&width=16" valign="middle"/>&nbsp;<sub>Ouvert aux opportunités freelance &amp; collaborations</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ## <img src="https://api.iconify.design/lucide:wrench.svg?color=%237aa2f7&width=26" valign="middle"/>&nbsp; Stack
 
 <table width="100%">
@@ -32,14 +50,16 @@
 <td valign="top" width="50%">
 
 **Languages**
-
+<br/>
 <img src="https://img.shields.io/badge/TypeScript-1a1b26?style=for-the-badge&logo=typescript&logoColor=7aa2f7" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/Dart-1a1b26?style=for-the-badge&logo=dart&logoColor=7dcfff" alt="Dart"/>
 <img src="https://img.shields.io/badge/PHP-1a1b26?style=for-the-badge&logo=php&logoColor=bb9af7" alt="PHP"/>
 <img src="https://img.shields.io/badge/Java-1a1b26?style=for-the-badge&logo=openjdk&logoColor=ff9e64" alt="Java"/>
 
-**Frontend & Mobile**
+<br/><br/>
 
+**Frontend &amp; Mobile**
+<br/>
 <img src="https://img.shields.io/badge/Angular-1a1b26?style=for-the-badge&logo=angular&logoColor=f7768e" alt="Angular"/>
 <img src="https://img.shields.io/badge/React-1a1b26?style=for-the-badge&logo=react&logoColor=7dcfff" alt="React"/>
 <img src="https://img.shields.io/badge/Next.js-1a1b26?style=for-the-badge&logo=nextdotjs&logoColor=c0caf5" alt="Next.js"/>
@@ -50,21 +70,25 @@
 <td valign="top" width="50%">
 
 **Backend**
-
+<br/>
 <img src="https://img.shields.io/badge/NestJS-1a1b26?style=for-the-badge&logo=nestjs&logoColor=f7768e" alt="NestJS"/>
 <img src="https://img.shields.io/badge/Spring_Boot-1a1b26?style=for-the-badge&logo=springboot&logoColor=9ece6a" alt="Spring Boot"/>
 <img src="https://img.shields.io/badge/Express.js-1a1b26?style=for-the-badge&logo=express&logoColor=c0caf5" alt="Express.js"/>
 
-**Databases**
+<br/><br/>
 
+**Databases**
+<br/>
 <img src="https://img.shields.io/badge/PostgreSQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=7aa2f7" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/MongoDB-1a1b26?style=for-the-badge&logo=mongodb&logoColor=9ece6a" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/MySQL-1a1b26?style=for-the-badge&logo=mysql&logoColor=7dcfff" alt="MySQL"/>
 <img src="https://img.shields.io/badge/Redis-1a1b26?style=for-the-badge&logo=redis&logoColor=f7768e" alt="Redis"/>
 <img src="https://img.shields.io/badge/Firebase-1a1b26?style=for-the-badge&logo=firebase&logoColor=ff9e64" alt="Firebase"/>
 
-**DevOps & Tools**
+<br/><br/>
 
+**DevOps &amp; Outils**
+<br/>
 <img src="https://img.shields.io/badge/Docker-1a1b26?style=for-the-badge&logo=docker&logoColor=7dcfff" alt="Docker"/>
 <img src="https://img.shields.io/badge/Git-1a1b26?style=for-the-badge&logo=git&logoColor=f7768e" alt="Git"/>
 <img src="https://img.shields.io/badge/WebStorm-1a1b26?style=for-the-badge&logo=webstorm&logoColor=ff9e64" alt="WebStorm"/>
