@@ -1,16 +1,11 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:414868&height=190&section=header&text=&fontColor=ffffff"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&height=45&repeat=false&lines=RANDRIAMALALA+Tahirinirina+Kevin+%E2%80%94+Full-Stack+%26+Mobile+Developer" alt="Typing SVG" />
-
 </div>
 
 <br/>
 
 <div align="center">
-
-<img src="https://api.iconify.design/lucide:terminal-square.svg?color=%237aa2f7&width=44" alt=""/>
 
 ## RANDRIAMALALA Tahirinirina Kevin
 
