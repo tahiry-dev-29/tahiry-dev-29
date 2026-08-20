@@ -2,45 +2,31 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:414868&height=190&section=header&text=&fontColor=ffffff"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=580&lines=RANDRIAMALALA+Tahirinirina+Kevin;Full-Stack+%26+Mobile+Developer;TypeScript+%7C+Dart+%7C+PHP+%7C+Java;Clean+Architecture+%E2%80%A2+Design+Patterns" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&height=45&repeat=false&lines=RANDRIAMALALA+Tahirinirina+Kevin+%E2%80%94+Full-Stack+%26+Mobile+Developer" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="76" valign="top" align="center">
-<img src="https://api.iconify.design/lucide:user-round.svg?color=%237aa2f7&width=42" alt="Profile"/>
-</td>
-<td valign="top">
+<div align="center">
 
-### RANDRIAMALALA Tahirinirina Kevin
-Full-stack developer building modern, performant web & mobile applications — with a focus on clean architecture, thoughtful design patterns, and scalable solutions that put user experience and code quality first.
+<img src="https://api.iconify.design/lucide:terminal-square.svg?color=%237aa2f7&width=44" alt=""/>
 
-</td>
-</tr>
-</table>
+## RANDRIAMALALA Tahirinirina Kevin
 
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-<img src="https://api.iconify.design/lucide:layout-template.svg?color=%237aa2f7&width=30" alt="Focus"/><br/>
-<b>Focus</b><br/>
-<sub>Web &amp; mobile apps</sub>
-</td>
-<td width="33%" align="center">
-<img src="https://api.iconify.design/lucide:layers-3.svg?color=%23bb9af7&width=30" alt="Approach"/><br/>
-<b>Approach</b><br/>
-<sub>Clean architecture &amp; patterns</sub>
-</td>
-<td width="33%" align="center">
-<img src="https://api.iconify.design/lucide:sparkles.svg?color=%239ece6a&width=30" alt="Priority"/><br/>
-<b>Priority</b><br/>
-<sub>UX &amp; code quality</sub>
-</td>
-</tr>
-</table>
+<sub>Full-stack developer crafting modern, performant web &amp; mobile applications</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Clean_Architecture-1a1b26?style=flat-square&color=24283b&labelColor=1a1b26" height="26"/>
+<img src="https://img.shields.io/badge/Design_Patterns-1a1b26?style=flat-square&color=24283b&labelColor=1a1b26" height="26"/>
+<img src="https://img.shields.io/badge/Scalable_Solutions-1a1b26?style=flat-square&color=24283b&labelColor=1a1b26" height="26"/>
+
+<br/><br/>
+
+<img src="https://api.iconify.design/lucide:target.svg?color=%239ece6a&width=18" valign="middle"/>&nbsp;<sub><b>Priorité :</b> expérience utilisateur &amp; qualité du code</sub>
+
+</div>
 
 <br/>
 
@@ -86,7 +72,7 @@ Full-stack developer building modern, performant web & mobile applications — w
 
 <img src="https://img.shields.io/badge/Docker-1a1b26?style=for-the-badge&logo=docker&logoColor=7dcfff" alt="Docker"/>
 <img src="https://img.shields.io/badge/Git-1a1b26?style=for-the-badge&logo=git&logoColor=f7768e" alt="Git"/>
-<img src="https://img.shields.io/badge/VS_Code-1a1b26?style=for-the-badge&logo=visualstudiocode&logoColor=7aa2f7" alt="VS Code"/>
+<img src="https://img.shields.io/badge/WebStorm-1a1b26?style=for-the-badge&logo=webstorm&logoColor=ff9e64" alt="WebStorm"/>
 <img src="https://img.shields.io/badge/Insomnia-1a1b26?style=for-the-badge&logo=insomnia&logoColor=bb9af7" alt="Insomnia"/>
 
 </td>
@@ -123,7 +109,7 @@ Full-stack developer building modern, performant web & mobile applications — w
 <a href="mailto:tahirydev29@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e" alt="Gmail"/>
 </a>
-<a href="https://wa.me/tahiry29" target="_blank">
+<a href="https://wa.me/261348384174" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-1a1b26?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/>
 </a>
 
