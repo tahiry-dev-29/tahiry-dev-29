@@ -1,95 +1,111 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:414868&height=190&section=header&text=&fontColor=ffffff"/>
 
-# TANNER Tahiry
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" /> About Me
-
-Passionate developer focused on building modern and performant web applications. Specialized in clean architecture and design patterns, I develop scalable solutions with a focus on user experience and code quality.
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="35" /> Tech Stack
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" /> Languages
-<p>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-</p>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe" width="25" /> Frontend & Mobile Frameworks
-<p>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" /> Backend Frameworks
-<p>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-</p>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Database" width="25" /> Databases
-<p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-</p>
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" /> DevOps & Tools
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" />
-</p>
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" /> GitHub Statistics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tahiry-dev-29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahiry-dev-29&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tahiry-dev-29&theme=tokyo-night&hide_border=true" width="100%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tahiry-dev-29&theme=tokyonight&hide_border=true" width="100%" />
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" /> Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/tahiry-tanner-3739aa258" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://x.com/Tahiry3429" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-<a href="mailto:tahirydev29@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-</p>
-
-<br/>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=tahiry-dev-29&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=580&lines=RANDRIAMALALA+Tahirinirina+Kevin;Full-Stack+%26+Mobile+Developer;TypeScript+%7C+Dart+%7C+PHP+%7C+Java;Clean+Architecture+%E2%80%A2+Design+Patterns" alt="Typing SVG" />
 
 </div>
+
+<br/>
+
+```yaml
+# whoami
+name: RANDRIAMALALA Tahirinirina Kevin
+role: Full-stack developer
+focus: Modern, performant web & mobile applications
+principles:
+  - Clean architecture
+  - Design patterns
+  - Scalable solutions
+priority: User experience & code quality
+```
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28"/>&nbsp; Stack
+
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
+
+**Languages**
+
+<img src="https://img.shields.io/badge/TypeScript-1a1b26?style=for-the-badge&logo=typescript&logoColor=7aa2f7" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Dart-1a1b26?style=for-the-badge&logo=dart&logoColor=7dcfff" alt="Dart"/>
+<img src="https://img.shields.io/badge/PHP-1a1b26?style=for-the-badge&logo=php&logoColor=bb9af7" alt="PHP"/>
+<img src="https://img.shields.io/badge/Java-1a1b26?style=for-the-badge&logo=openjdk&logoColor=ff9e64" alt="Java"/>
+
+**Frontend & Mobile**
+
+<img src="https://img.shields.io/badge/Angular-1a1b26?style=for-the-badge&logo=angular&logoColor=f7768e" alt="Angular"/>
+<img src="https://img.shields.io/badge/React-1a1b26?style=for-the-badge&logo=react&logoColor=7dcfff" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-1a1b26?style=for-the-badge&logo=nextdotjs&logoColor=c0caf5" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Flutter-1a1b26?style=for-the-badge&logo=flutter&logoColor=7aa2f7" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-1a1b26?style=for-the-badge&logo=tailwind-css&logoColor=2ac3de" alt="Tailwind CSS"/>
+
+</td>
+<td valign="top" width="50%">
+
+**Backend**
+
+<img src="https://img.shields.io/badge/NestJS-1a1b26?style=for-the-badge&logo=nestjs&logoColor=f7768e" alt="NestJS"/>
+<img src="https://img.shields.io/badge/Spring_Boot-1a1b26?style=for-the-badge&logo=springboot&logoColor=9ece6a" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/Express.js-1a1b26?style=for-the-badge&logo=express&logoColor=c0caf5" alt="Express.js"/>
+
+**Databases**
+
+<img src="https://img.shields.io/badge/PostgreSQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=7aa2f7" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MongoDB-1a1b26?style=for-the-badge&logo=mongodb&logoColor=9ece6a" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/MySQL-1a1b26?style=for-the-badge&logo=mysql&logoColor=7dcfff" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Redis-1a1b26?style=for-the-badge&logo=redis&logoColor=f7768e" alt="Redis"/>
+<img src="https://img.shields.io/badge/Firebase-1a1b26?style=for-the-badge&logo=firebase&logoColor=ff9e64" alt="Firebase"/>
+
+**DevOps & Tools**
+
+<img src="https://img.shields.io/badge/Docker-1a1b26?style=for-the-badge&logo=docker&logoColor=7dcfff" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-1a1b26?style=for-the-badge&logo=git&logoColor=f7768e" alt="Git"/>
+<img src="https://img.shields.io/badge/VS_Code-1a1b26?style=for-the-badge&logo=visualstudiocode&logoColor=7aa2f7" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Insomnia-1a1b26?style=for-the-badge&logo=insomnia&logoColor=bb9af7" alt="Insomnia"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="28"/>&nbsp; Statistiques GitHub
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=tahiry-dev-29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahiry-dev-29&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tahiry-dev-29&theme=tokyonight&hide_border=true&background=00000000" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tahiry-dev-29&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%"/>
+
+</div>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28"/>&nbsp; Me contacter
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/tahiry-tanner-3739aa258" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/Tahiry3429" target="_blank">
+<img src="https://img.shields.io/badge/X-1a1b26?style=for-the-badge&logo=x&logoColor=c0caf5" alt="X"/>
+</a>
+<a href="mailto:tahirydev29@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e" alt="Gmail"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=tahiry-dev-29&color=1a1b26&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,100:1a1b26&height=120&section=footer"/>
