@@ -9,41 +9,23 @@
 
 ## RANDRIAMALALA Tahirinirina Kevin
 
-<sub>Développeur Full-Stack — applications web &amp; mobile robustes, du back-end à l'interface</sub>
+<sub>Full-Stack Developer building solid, end-to-end web &amp; mobile products — from architecture to UI. Based in Madagascar · open to freelance work &amp; collaborations.</sub>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Clean_Architecture-1a1b26?style=flat-square&color=24283b&labelColor=1a1b26" height="26"/>
 <img src="https://img.shields.io/badge/Design_Patterns-1a1b26?style=flat-square&color=24283b&labelColor=1a1b26" height="26"/>
 <img src="https://img.shields.io/badge/Scalable_Solutions-1a1b26?style=flat-square&color=24283b&labelColor=1a1b26" height="26"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://api.iconify.design/lucide:target.svg?color=%239ece6a&width=18" valign="middle"/>&nbsp;<sub><b>Priorité :</b> expérience utilisateur &amp; qualité du code</sub>
+<img src="https://api.iconify.design/lucide:target.svg?color=%239ece6a&width=18" valign="middle"/>&nbsp;<sub><b>Focus:</b> user experience &amp; code quality</sub>
 
 </div>
 
 <br/>
 
-## <img src="https://api.iconify.design/lucide:user.svg?color=%23e0af68&width=26" valign="middle"/>&nbsp; À propos
-
-<table width="100%">
-<tr>
-<td>
-
-Je conçois des produits web et mobile de bout en bout — architecture, back-end, front-end — avec une attention particulière portée à la performance et à la maintenabilité du code. J'aime transformer un besoin flou en système propre, testable et évolutif.
-
-<img src="https://api.iconify.design/lucide:map-pin.svg?color=%237aa2f7&width=16" valign="middle"/>&nbsp;<sub>Madagascar</sub>
-&nbsp;&nbsp;
-<img src="https://api.iconify.design/lucide:radar.svg?color=%237aa2f7&width=16" valign="middle"/>&nbsp;<sub>Ouvert aux opportunités freelance &amp; collaborations</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## <img src="https://api.iconify.design/lucide:wrench.svg?color=%237aa2f7&width=26" valign="middle"/>&nbsp; Stack
+## <img src="https://api.iconify.design/lucide:wrench.svg?color=%237aa2f7&width=26" valign="middle"/>&nbsp; Tech Stack
 
 <table width="100%">
 <tr>
@@ -87,7 +69,7 @@ Je conçois des produits web et mobile de bout en bout — architecture, back-en
 
 <br/><br/>
 
-**DevOps &amp; Outils**
+**DevOps &amp; Tools**
 <br/>
 <img src="https://img.shields.io/badge/Docker-1a1b26?style=for-the-badge&logo=docker&logoColor=7dcfff" alt="Docker"/>
 <img src="https://img.shields.io/badge/Git-1a1b26?style=for-the-badge&logo=git&logoColor=f7768e" alt="Git"/>
@@ -100,7 +82,7 @@ Je conçois des produits web et mobile de bout en bout — architecture, back-en
 
 <br/>
 
-## <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%23bb9af7&width=26" valign="middle"/>&nbsp; Statistiques GitHub
+## <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%23bb9af7&width=26" valign="middle"/>&nbsp; GitHub Stats
 
 <div align="center">
 
@@ -115,7 +97,7 @@ Je conçois des produits web et mobile de bout en bout — architecture, back-en
 
 <br/>
 
-## <img src="https://api.iconify.design/lucide:send-horizontal.svg?color=%239ece6a&width=26" valign="middle"/>&nbsp; Me contacter
+## <img src="https://api.iconify.design/lucide:send-horizontal.svg?color=%239ece6a&width=26" valign="middle"/>&nbsp; Get in Touch
 
 <div align="center">
 
@@ -147,7 +129,7 @@ Je conçois des produits web et mobile de bout en bout — architecture, back-en
 
 </td>
 <td align="center">
-<sub>visiteurs de ce profil</sub>
+<sub>profile visitors</sub>
 </td>
 </tr>
 </table>
