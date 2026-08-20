@@ -34,7 +34,9 @@
       <img src="https://img.shields.io/badge/Angular-1a1b26?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular"/>
       <img src="https://img.shields.io/badge/React-1a1b26?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
       <img src="https://img.shields.io/badge/Next.js-1a1b26?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js"/>
-      <img src="https://img.shields.io/badge/TanStack-1a1b26?style=for-the-badge&logo=reactquery&logoColor=FF4154" alt="TanStack"/>
+      <img src="https://img.shields.io/badge/TanStack-1a1b26?style=for-the-badge&logo=tanstack&logoColor=FF4154"
+  alt="TanStack"
+/>
       <img src="https://img.shields.io/badge/Flutter-1a1b26?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter"/>
       <img src="https://img.shields.io/badge/Tailwind_CSS-1a1b26?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" alt="Tailwind CSS"/>
     </td>
