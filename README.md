@@ -8,21 +8,43 @@
 
 <br/>
 
-```yaml
-# whoami
-name: RANDRIAMALALA Tahirinirina Kevin
-role: Full-stack developer
-focus: Modern, performant web & mobile applications
-principles:
-  - Clean architecture
-  - Design patterns
-  - Scalable solutions
-priority: User experience & code quality
-```
+<table width="100%">
+<tr>
+<td width="76" valign="top" align="center">
+<img src="https://api.iconify.design/lucide:user-round.svg?color=%237aa2f7&width=42" alt="Profile"/>
+</td>
+<td valign="top">
+
+### RANDRIAMALALA Tahirinirina Kevin
+Full-stack developer building modern, performant web & mobile applications — with a focus on clean architecture, thoughtful design patterns, and scalable solutions that put user experience and code quality first.
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+<img src="https://api.iconify.design/lucide:layout-template.svg?color=%237aa2f7&width=30" alt="Focus"/><br/>
+<b>Focus</b><br/>
+<sub>Web &amp; mobile apps</sub>
+</td>
+<td width="33%" align="center">
+<img src="https://api.iconify.design/lucide:layers-3.svg?color=%23bb9af7&width=30" alt="Approach"/><br/>
+<b>Approach</b><br/>
+<sub>Clean architecture &amp; patterns</sub>
+</td>
+<td width="33%" align="center">
+<img src="https://api.iconify.design/lucide:sparkles.svg?color=%239ece6a&width=30" alt="Priority"/><br/>
+<b>Priority</b><br/>
+<sub>UX &amp; code quality</sub>
+</td>
+</tr>
+</table>
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28"/>&nbsp; Stack
+## <img src="https://api.iconify.design/lucide:wrench.svg?color=%237aa2f7&width=26" valign="middle"/>&nbsp; Stack
 
 <table width="100%">
 <tr>
@@ -73,7 +95,7 @@ priority: User experience & code quality
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="28"/>&nbsp; Statistiques GitHub
+## <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%23bb9af7&width=26" valign="middle"/>&nbsp; Statistiques GitHub
 
 <div align="center">
 
@@ -88,7 +110,7 @@ priority: User experience & code quality
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="28"/>&nbsp; Me contacter
+## <img src="https://api.iconify.design/lucide:send-horizontal.svg?color=%239ece6a&width=26" valign="middle"/>&nbsp; Me contacter
 
 <div align="center">
 
@@ -101,11 +123,28 @@ priority: User experience & code quality
 <a href="mailto:tahirydev29@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-1a1b26?style=for-the-badge&logo=gmail&logoColor=f7768e" alt="Gmail"/>
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=tahiry-dev-29&color=1a1b26&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+<a href="https://wa.me/tahiry29" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-1a1b26?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/>
+</a>
 
 </div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://api.iconify.design/lucide:eye.svg?color=%237aa2f7&width=22"/>
+</td>
+<td align="center">
+
+<img src="https://komarev.com/ghpvc/?username=tahiry-dev-29&color=1a1b26&style=flat&label=" alt="visitor count" height="26"/>
+
+</td>
+<td align="center">
+<sub>visiteurs de ce profil</sub>
+</td>
+</tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,100:1a1b26&height=120&section=footer"/>
