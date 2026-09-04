@@ -45,4 +45,4 @@ Robust Architecture · Application Security · Clean Code · Scalable Systems ·
 
 ## GitHub Activity
 
-![GitHub contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=tahiry-dev-29\&theme=github-compact\&hide_border=true\&area=true)
+![GitHub Activity](https://raw.githubusercontent.com/tahiry-dev-29/tahiry-dev-29/main/assets/activity-graph.svg)
