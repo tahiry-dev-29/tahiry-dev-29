@@ -20,7 +20,7 @@ jobs:
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: tahiry-dev-29
-          options: theme=dracula&hide_border=true&area=true
+          options: theme=github-dark&hide_border=true&area=true&line=8b5cf6&point=8b5cf6&area_color=8b5cf6
           output_path: dist/activity-graph.svg
           token: ${{ secrets.PORTFOLIO_GH_TOKEN }}
 
