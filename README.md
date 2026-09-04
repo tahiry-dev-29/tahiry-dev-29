@@ -3,7 +3,6 @@
 **Full-Stack Software Engineer**
 
 I build web and mobile applications and enjoy turning ideas into reliable, secure and scalable software.
-
 I'm passionate about robust architecture, application security and writing clean, maintainable code.
 
 ## Contact
