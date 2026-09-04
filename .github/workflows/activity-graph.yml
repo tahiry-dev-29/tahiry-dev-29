@@ -22,7 +22,7 @@ jobs:
           username: tahiry-dev-29
           options: theme=github-compact&hide_border=true&area=true
           output_path: dist/activity-graph.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PORTFOLIO_GH_TOKEN }}
 
       - name: Save graph
         run: |
