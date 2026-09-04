@@ -18,7 +18,7 @@ I'm passionate about robust architecture, application security and writing clean
 
 A secure and customizable e-commerce application designed for a smooth and scalable shopping experience.
 
-**Angular · Next.js · GraphQL**
+**Angular · Nest.js · GraphQL · Spartan/ui**
 
 ### [AUTH MICROSERVICE](https://swift-shop-authentication.onrender.com/)
 
