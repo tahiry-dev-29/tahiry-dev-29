@@ -18,13 +18,13 @@ I'm passionate about robust architecture, application security and writing clean
 
 A secure and customizable e-commerce application designed for a smooth and scalable shopping experience.
 
-**Angular · Nest.js · GraphQL · Spartan/ui**
+**NX · Angular · Nest.js · GraphQL · Spartan/ui**
 
 ### [AUTH MICROSERVICE](https://swift-shop-authentication.onrender.com/)
 
 A secure authentication microservice for identity and access management, with token-based authentication, two-factor authentication, audit logs and rate limiting.
 
-**NestJS · TypeScript**
+**NX . NestJS · TypeScript**
 
 ### [BOUTIQUE DIARY](https://boutique-d.vercel.app/)
 
@@ -36,7 +36,7 @@ A modern e-commerce platform focused on product discovery, storytelling and secu
 
 A language learning platform that combines live practice, real-time communication and AI to create a more interactive learning experience.
 
-**Angular · NestJS · GraphQL · AI**
+**NX · Angular · NestJS · GraphQL · AI**
 
 ## What I care about
 
